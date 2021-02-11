@@ -1,0 +1,31 @@
+.card-column{
+  @media (min-width: 560px) {
+    min-height: 320px;
+  }
+}
+.card{
+  height: 100%;
+  &--primary{
+    background-color: #f59926;
+  }
+  &--secondary{
+    background-color: #49acdd;
+  }
+  &--tertiary{
+    background-color: #ab75ad;
+  }
+  &__date{
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+  &__heading{
+    margin-bottom: 20px;
+  }
+  &__description{
+    font-size: 14px;
+  }
+  &__read-more{
+    width: 100px;
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "fontFamily": [
+    {
+      "label": "Default",
+      "value": null
+    },
+    {
+      "label": "Verdana",
+      "value": "Verdana"
+    },
+    {
+      "label": "Helvetica",
+      "value": "Helvetica"
+    },
+    {
+      "label": "Tahoma",
+      "value": "Tahoma"
+    }
+  ],
+  "headingFontSize": [
+    {
+      "label": "Default",
+      "value": null
+    },
+    {
+      "label": "30px",
+      "value": "30px"
+    },
+    {
+      "label": "55px",
+      "value": "55px"
+    },
+    {
+      "label": "80px",
+      "value": "80px"
+    }
+  ],
+  "descriptionFontSize": [
+    {
+      "label": "Default",
+      "value": null
+    },
+    {
+      "label": "10px",
+      "value": "10px"
+    },
+    {
+      "label": "20px",
+      "value": "20px"
+    },
+    {
+      "label": "30px",
+      "value": "30px"
+    }
+  ],
+  "fontColor": [
+    {
+      "label": "Default",
+      "value": null
+    },
+    {
+      "label": "Primary",
+      "value": "text-primary"
+    },
+    {
+      "label": "Secondary",
+      "value": "text-secondary"
+    },
+    {
+      "label": "Warning",
+      "value": "text-warning"
+    },
+    {
+      "label": "Danger",
+      "value": "text-danger"
+    }
+  ],
+  "cardColor": [
+    {
+      "label": "Default",
+      "value": null
+    },
+    {
+      "label": "Primary",
+      "value": "bg-primary"
+    },
+    {
+      "label": "Secondary",
+      "value": "bg-secondary"
+    },
+    {
+      "label": "Warning",
+      "value": "bg-warning"
+    },
+    {
+      "label": "Danger",
+      "value": "bg-danger"
+    }
+  ]
+}
